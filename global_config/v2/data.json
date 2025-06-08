@@ -5,16 +5,33 @@
         "global_config": [
             {
                 "build": 1747794236,
-                "app_version_range_min": "2.0.5(27)",
+                "app_version_range_min": "1.0.0(1)",
                 "app_version_range_max": "99.99.99",
                 "new_user_trial_count": 1,
+                "firstIgnore_ad_minutes": 5,
+                "interstitial_ad_time_interval": 60,
                 "launch_purchase_skip_delay_secs": 3.0,
-                "api_base_url": "https://fwapi.topaifusion.com",
+                "api_base_url": "https://1kg789qau8.execute-api.us-east-1.amazonaws.com",
                 "ss": [
                     {
-                        "t": "f",
+                        "t": "p",
                         "o": [
                             "k1"
+                        ]
+                    },
+                    {
+                        "t": "e",
+                        "o": [
+                            "e",
+                            "g",
+                            "f"
+                        ]
+                    },
+                    {
+                        "t": "a",
+                        "o": [
+                            "b",
+                            "d"
                         ]
                     }
                 ]
@@ -22,11 +39,11 @@
         ],
         "app_alert_config": [
             {
-                "build": 1747792844,
+                "build": 1747792843,
                 "show_times": 3,
                 "skip_enable": false,
-                "app_version_range_min": "1.0.0(1)",
-                "app_version_range_max": "2.0.4(26)",
+                "app_version_range_min": "99.99.99",
+                "app_version_range_max": "99.99.99",
                 "title": "",
                 "body": "The service has been upgraded, and the current version will no longer work. Please update to the latest version (2.1.0)."
             }
