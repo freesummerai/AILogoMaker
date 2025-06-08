@@ -4,7 +4,7 @@
     "data": {
         "global_config": [
             {
-                "build": 1747794236,
+                "build": 1749359518,
                 "app_version_range_min": "1.0.0(1)",
                 "app_version_range_max": "99.99.99",
                 "max_weekly_logo_api_count_r1": 0,

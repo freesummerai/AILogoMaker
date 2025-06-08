@@ -4,12 +4,12 @@
     "data": {
         "global_config": [
             {
-                "build": 1749359384,
+                "build": 1749359518,
                 "app_version_range_min": "1.0.0(1)",
                 "app_version_range_max": "99.99.99",
-                "max_weekly_logo_api_count_r1": 10,
-                "max_weekly_logo_api_count_r2": 20,
-                "max_weekly_logo_api_count_r3": 30,
+                "max_weekly_logo_api_count_r1": 0,
+                "max_weekly_logo_api_count_r2": 0,
+                "max_weekly_logo_api_count_r3": 0,
                 "new_user_trial_count": 1,
                 "firstIgnore_ad_minutes": 5,
                 "interstitial_ad_time_interval": 60,
