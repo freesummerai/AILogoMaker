@@ -16,27 +16,9 @@
                 "launch_purchase_skip_delay_secs": 3.0,
                 "api_base_url": "https://d3uk18xr5d.execute-api.us-east-1.amazonaws.com",
                 "ss": [
-                    {
-                        "t": "p",
-                        "o": [
-                            "l1"
-                        ]
-                    },
-                    {
-                        "t": "e",
-                        "o": [
-                            "e",
-                            "g",
-                            "f"
-                        ]
-                    },
-                    {
-                        "t": "a",
-                        "o": [
-                            "b",
-                            "d"
-                        ]
-                    }
+                    {"t": "p","o": ["k1"]},
+                    {"t": "e","o": ["e","g","f","m"]},
+                    {"t": "a","o": ["b","d","m"]}
                 ]
             }
         ],
