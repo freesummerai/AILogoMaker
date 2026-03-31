@@ -4,21 +4,35 @@
     "data": {
         "global_config": [
             {
-                "build": 1760688188,
+                "build": 1774929683,
                 "app_version_range_min": "1.0.0(1)",
                 "app_version_range_max": "99.99.99",
-                "max_weekly_logo_api_count_r1": 0,
-                "max_weekly_logo_api_count_r2": 0,
-                "max_weekly_logo_api_count_r3": 0,
-                "new_user_trial_count": 1,
-                "firstIgnore_ad_minutes": 5,
-                "interstitial_ad_time_interval": 60,
                 "launch_purchase_skip_delay_secs": 3.0,
-                "api_base_url": "https://d3uk18xr5d.execute-api.us-east-1.amazonaws.com",
+                "api_base_url": "https://aiapi.freesummerai.com/v1/logomaker",
                 "ss": [
-                    {"t": "p","o": ["k1"]},
-                    {"t": "e","o": ["e","g","f","m"]},
-                    {"t": "a","o": ["b","d","m"]}
+                    {
+                        "t": "p",
+                        "o": [
+                            "k1"
+                        ]
+                    },
+                    {
+                        "t": "e",
+                        "o": [
+                            "e",
+                            "g",
+                            "f",
+                            "m"
+                        ]
+                    },
+                    {
+                        "t": "a",
+                        "o": [
+                            "b",
+                            "d",
+                            "m"
+                        ]
+                    }
                 ]
             }
         ],
